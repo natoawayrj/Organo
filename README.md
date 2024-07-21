@@ -19,3 +19,5 @@ Componente que agrupa os formulários e gerencia o estado dos inputs.
 
 Time.js
 Componente que exibe a lista de jogadores de um determinado jogo.
+
+
