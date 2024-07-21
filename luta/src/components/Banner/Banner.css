@@ -1,0 +1,12 @@
+.banner{
+    background-image: url('/image/ryu.png');
+    background-size: cover;
+    height: 350px;
+}
+.banner h1{
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 20px;
+}
